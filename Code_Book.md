@@ -2,7 +2,6 @@
 title: "Getting and Cleaning Data Course Project - Code Book"
 author: "Bharath"
 date: "2024-04-16"
-output: pdf_document
 ---
 # Getting and Cleaning Data - Code Book 
 
