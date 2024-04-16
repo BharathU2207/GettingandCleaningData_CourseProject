@@ -4,10 +4,6 @@ author: "Bharath"
 date: "2024-04-16"
 output: pdf_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 # Getting and Cleaning Data - Code Book 
 
 ## Description 
